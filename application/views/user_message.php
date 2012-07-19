@@ -70,7 +70,7 @@
 	<h1>Welcome to User</h1>
 
 	<div id="body">
-		<p>Prueba User</p>
+		<p>Prueba User Vega</p>
 	</div>
 
 	<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds</p>
