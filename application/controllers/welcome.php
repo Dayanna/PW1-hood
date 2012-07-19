@@ -21,6 +21,10 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->view('welcome_message');
 	}
+	public function user()
+	{
+		$this->load->view('user_message');
+	}
 }
 
 /* End of file welcome.php */
